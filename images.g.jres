@@ -5,9 +5,14 @@
         "displayName": "houseRed"
     },
     "image2": {
-        "data": "hwQQABAAAAAAAAAAAAAAAAAAAADwAAAAAAAA/2//AAAA8P9mZt//DwAfZv/2/T8P8GH23T/zM/9VZf8//TVT/1Bi3939UzMPVWXf3f1TMw/wYf8//TVTD/AW9t0/8z8PAG9h//bT/Q8A8P9mZv//AAAAAP9vDwAAAAAAAPAAAAAAAAAAAAAAAA==",
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAADwAAAAAAAA/3//AAAA8P93d9//DwAfd//3/a8P8HH3qq/6qv9Vdf+v+qVa/1Byr6r6WqoPVXWvqvpaqg/wcf+v+qVaD/AW96qv+j8PAH9x//fa/Q8A8P93d///AAAAAP9/DwAAAAAAAPAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "princessFront2"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAoKoKYAYACgCgAGqmYKYKCqAACqAAoAqqoGagoACgCqpqAKCgAKAKqmoApqYAoGqqCmCgoAYKaqBqBqCmBgpqoGoAoKYGCmqgCgagoAAKaqAKYKagAKoGoAoAoKCgoACgCgCgqqCgAKAKAABgpgYAoAAAAAagAAAAAABgBqAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
