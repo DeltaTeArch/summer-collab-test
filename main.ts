@@ -1,5 +1,5 @@
 controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
-    music.baDing.play()
+    music.siren.play()
 })
 scene.setBackgroundColor(5)
 tiles.setTilemap(tilemap`level1`)
