@@ -54,25 +54,6 @@ cc66666666664c66e4e44e44e44feeee66c46666666666cc
 .....64eee444c66f4e44e44e44e44ee66c444eee46.....
 ......6ccc666c66e4e44e44e44e44ee66c666ccc6......
 `;
-            case "image2":
-            case "princessFront2":return img`
-. . . . . . 5 . 5 . . . . . . . 
-. . . . . f 5 5 5 f f . . . . . 
-. . . . f 1 5 2 5 1 6 f . . . . 
-. . . f 1 7 7 7 7 7 1 7 f . . . 
-. . . f 7 7 f f f f 7 1 f . . . 
-. . . f 7 f f a a f f 7 f . . . 
-. . f 7 f a f a a f a f 7 f . . 
-. . f 7 f a a a a a a f 7 f . . 
-. . f 7 7 f a a a a f 7 7 f . . 
-. f 7 7 f a f f f f a f 7 7 f . 
-. . f f d a 5 a a 5 a a f f . . 
-. . f d f f a 5 5 a f d f . . . 
-. . . f f a a a a a f d f . . . 
-. . . f a a 5 a a 5 3 f f . . . 
-. . . f f f f f f f f f . . . . 
-. . . . . f f . . . . . . . . . 
-`;
             case "image3":
             case "myImage":return img`
 . . a a a a a . . . . . . . . . 
@@ -91,6 +72,25 @@ a a a . . 6 . . . . 6 . . . . .
 . a a a a a . . . . a a a . . . 
 a a a a a a a a a a 6 . . . . . 
 . . . . . 6 6 6 6 6 . . . . . . 
+`;
+            case "image2":
+            case "princessFront2":return img`
+. . . . . . 5 . 5 . . . . . . . 
+. . . . . f 5 5 5 f f . . . . . 
+. . . . f 1 5 2 5 1 6 f . . . . 
+. . . f 1 8 8 8 8 8 1 8 f . . . 
+. . . f 8 8 f f f f 8 1 f . . . 
+. . . f 8 f f 2 2 f f 8 f . . . 
+. . f 8 f 2 f 2 2 f 2 f 8 f . . 
+. . f 8 f 2 2 2 2 2 2 f 8 f . . 
+. . f 8 8 f 2 2 2 2 f 8 8 f . . 
+. f 8 8 f 2 f f f f 2 f 8 8 f . 
+. . f f d 2 5 2 2 2 2 2 f f . . 
+. . f d f f 2 5 5 2 f d f . . . 
+. . . f f 2 2 2 2 2 f d f . . . 
+. . . f 2 2 5 2 2 5 3 f f . . . 
+. . . f f f f f f f f f . . . . 
+. . . . . f f . . . . . . . . . 
 `;
         }
         return null;

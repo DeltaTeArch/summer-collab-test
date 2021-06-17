@@ -4,15 +4,15 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "houseRed"
     },
-    "image2": {
-        "data": "hwQQABAAAAAAAAAAAAAAAAAAAADwAAAAAAAA/3//AAAA8P93d9//DwAfd//3/a8P8HH3qq/6qv9Vdf+v+qVa/1Byr6r6WqoPVXWvqvpaqg/wcf+v+qVaD/AW96qv+j8PAH9x//fa/Q8A8P93d///AAAAAP9/DwAAAAAAAPAAAAAAAAAAAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "princessFront2"
-    },
     "image3": {
         "data": "hwQQABAAAAAAoKoKYAYACgCgAGqmYKYKCqAACqAAoAqqoGagoACgCqpqAKCgAKAKqmoApqYAoGqqCmCgoAYKaqBqBqCmBgpqoGoAoKYGCmqgCgagoAAKaqAKYKagAKoGoAoAoKCgoACgCgCgqqCgAKAKAABgpgYAoAAAAAagAAAAAABgBqAAAA==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAADwAAAAAAAA/4//AAAA8P+IiN//DwAfiP/4/S8P8IH4Ii/yIv9Vhf8v8iVS/1CCLyLyUiIPVYUvIvJSIg/wgf8v8iJSD/AW+CIv8j8PAI+B//jS/Q8A8P+IiP//AAAAAP+PDwAAAAAAAPAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "princessFront2"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",

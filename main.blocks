@@ -15,4 +15,4 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"G]Vgslqa=Lu*K#[2ZL`Z"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id=":ve0Dkc;JH@@g07+,5A#"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></next></block></statement></block><block type="gamelifeevent" id="Cl2u;f[ZeT-c$/kM.oB!" x="50" y="330"><statement name="HANDLER"><block type="arcade_game_reset" id="zww^I%bH|:TkO,UII(%q"/></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"G]Vgslqa=Lu*K#[2ZL`Z"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id=":ve0Dkc;JH@@g07+,5A#"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></next></block></statement></block></xml>
