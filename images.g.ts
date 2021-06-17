@@ -73,25 +73,6 @@ a a a . . 6 . . . . 6 . . . . .
 a a a a a a a a a a 6 . . . . . 
 . . . . . 6 6 6 6 6 . . . . . . 
 `;
-            case "image2":
-            case "princessFront2":return img`
-. . . . . . 5 . 5 . . . . . . . 
-. . . . . f 5 5 5 f f . . . . . 
-. . . . f 1 5 2 5 1 6 f . . . . 
-. . . f 1 8 8 8 8 8 1 8 f . . . 
-. . . f 8 8 f f f f 8 1 f . . . 
-. . . f 8 f f 2 2 f f 8 f . . . 
-. . f 8 f 2 f 2 2 f 2 f 8 f . . 
-. . f 8 f 2 2 2 2 2 2 f 8 f . . 
-. . f 8 8 f 2 2 2 2 f 8 8 f . . 
-. f 8 8 f 2 f f f f 2 f 8 8 f . 
-. . f f d 2 5 2 2 2 2 2 f f . . 
-. . f d f f 2 5 5 2 f d f . . . 
-. . . f f 2 2 2 2 2 f d f . . . 
-. . . f 2 2 5 2 2 5 3 f f . . . 
-. . . f f f f f f f f f . . . . 
-. . . . . f f . . . . . . . . . 
-`;
             case "image4":
             case "myImage0":return img`
 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
@@ -110,6 +91,25 @@ a a a a a a a a a a 6 . . . . .
 2 2 2 2 2 6 6 6 6 6 6 6 6 2 2 2 
 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`;
+            case "image2":
+            case "princessFront2":return img`
+. . . . . . 5 . 5 . . . . . . . 
+. . . . . f 5 5 5 f f . . . . . 
+. . . . f 1 5 2 5 1 6 f . . . . 
+. . . f 1 8 8 8 8 8 1 8 f . . . 
+. . . f 8 8 f f f f 8 1 f . . . 
+. . . f 8 f f 2 2 f f 8 f . . . 
+. . f 8 f 2 f 2 2 f 2 f 8 f . . 
+. . f 8 f 2 2 2 2 2 2 f 8 f . . 
+. . f 8 8 f 2 2 2 2 f 8 8 f . . 
+. f 8 8 f 2 f f f f 2 f 8 8 f . 
+. . f f d 2 5 2 2 2 2 2 f f . . 
+. . f d f f 2 5 5 2 f d f . . . 
+. . . f f 2 2 2 2 2 f d f . . . 
+. . . f 2 2 5 2 2 5 3 f f . . . 
+. . . f f f f f f f f f . . . . 
+. . . . . f f . . . . . . . . . 
 `;
         }
         return null;
