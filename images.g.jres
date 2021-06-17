@@ -9,11 +9,6 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage"
     },
-    "image4": {
-        "data": "hwQQABAAAAAiJiIiIiIiImImIiIiIiIiYiIiIiJmJiJiYiJiZiImImJiImIiIiYiYmIiYiIiYiJiYiIiJiJiImJiIiImImIiYmIiIiYiYiJiYmZmZiJiImJiIiJiImIiYmJmJiIiYiJiZiJiZmZmIiJmIiIiIiIiIiIiIiIiIiIiIiIiIiIiIg==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "myImage0"
-    },
     "image2": {
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAADwAAAAAAAA/4//AAAA8P+IiN//DwAfiP/4/S8P8IH4Ii/yIv9Vhf8v8iVS/1CCLyLyUiIPVYUvIvJSIg/wgf8v8iJSD/AW+CIv8j8PAI+B//jS/Q8A8P+IiP//AAAAAP+PDwAAAAAAAPAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
@@ -33,6 +28,11 @@
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAPAPAAAAAPD///7gRAAA/+/v7k9NAPD/Lv/k/v8A8O/yv9EuQv//4vL+3yRC/y/i8k7dJFIPL+LyTt0kUg//4vL+3yRC//Dv8r/RLkL/8P8u/+T+/wAA/+7v7k9NAADw///+4EQAAAAA8A8AAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "heroWalkFront1"
+    },
+    "image4": {
+        "data": "hwQQABAAAAB3end3d3d3d6d6d3d3d3d3p3d3d3dmdnenp3dXVVV2d6end1dVVXZ3p6d3V1VVVXenp3d3WlVVd6end3daVVV3p6d3d1pVVXenp6qqqlVVd6enVVWlVVV3p6eqWlVVVXenqndXVVVVd3eqd3d3d3d3d3d3d3d3d3d3d3d3d3d3dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
